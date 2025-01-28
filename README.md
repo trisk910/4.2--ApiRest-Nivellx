@@ -10,7 +10,7 @@ Aquest repositori inclou un conjunt d’exercicis per implementar un CRUD (Creat
 ## Nivell 1: CRUD amb H2
 
 ### Característiques del projecte
-- **Gestor de dependències**: Maven o Gradle
+- **Gestor de dependències**: Maven
 - **Llenguatge**: Java
 - **Spring Boot**: Darrera versió estable
 - **Package**: JAR
@@ -49,7 +49,7 @@ L’entitat "Fruita" es persisteix en una base de dades H2.
 ## Nivell 2: CRUD amb MySQL
 
 ### Característiques del projecte
-- **Gestor de dependències**: Maven o Gradle
+- **Gestor de dependències**: Maven
 - **Llenguatge**: Java
 - **Spring Boot**: Darrera versió estable
 - **Package**: JAR
